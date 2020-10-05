@@ -119,3 +119,24 @@ main{
 	}
 
 }
+@media screen and (max-width:480px) {
+	.main{
+		grid-template-rows:minmax(150px,auto) minmax(500px,auto) 200px;
+	grid-template-areas: 
+	"hd nv nv"
+	"ct ct ct"
+	"ft ft ft";
+}
+	#logo{
+		display: none;
+	}
+	
+	.navbar ul li a{
+	padding:  4px 8px;
+	}
+	.navbar ul{
+		text-align: center;
+
+	}
+
+}
