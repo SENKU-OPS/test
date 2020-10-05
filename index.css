@@ -59,7 +59,7 @@ main{
 	border:2px solid;
 	border-color: #86c232ff;
 	margin:0px 5px;
-	padding: 20px 40px;
+	padding: 18px 30px;
 	font-family: 'Roboto Mono' ;
 	font-style: bold;
 }
@@ -69,7 +69,7 @@ main{
 }
 .navbar ul li a:active
 {
-	padding: 18px 30px;
+	padding: 24px 40px;
 
 }
 .navbar ul{
@@ -111,7 +111,7 @@ main{
 	}
 	
 	.navbar ul li a{
-	padding:  10px 15px;
+	padding:  8px 13px;
 	}
 	.navbar ul{
 		text-align: center;
@@ -119,7 +119,7 @@ main{
 	}
 	.navbar ul li a:active{
 
-	padding: 8px 13px;
+	padding: 11px 15px;
 
 }
 
@@ -145,7 +145,7 @@ main{
 	}
 	.navbar ul li a:active{
 
-	padding: 1px 2px;
+	padding: 2px 3px;
 
 }
 
