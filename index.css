@@ -119,7 +119,7 @@ main{
 	}
 
 }
-@media screen and (max-width:420px) {
+@media screen and (max-width:480px) {
 	.main{
 		grid-template-rows:minmax(150px,auto) minmax(500px,auto) 200px;
 	grid-template-areas: 
